@@ -1,1 +1,211 @@
-
+@misc{Erazo2025,
+   author = {Orlando Erazo},
+   journal = {Universidad Técnica Estatal de Quevedo},
+   month = {8},
+   title = {Entrevista no estructurada al Dr. Orlando Erazo (online-audio)},
+   url = {https://drive.google.com/file/d/1qRjDLGaSJw0qpwjFbEYH-3a0Gn0cBiEL/view?usp=sharing},
+   year = {2025}
+}
+@techReport{UNIANDES2017,
+   author = {UNIANDES},
+   city = {Ambato},
+   institution = {Universidad Regional Autónoma de los Andes},
+   month = {8},
+   pages = {1-29},
+   title = {Instructivo sobre la titulación y las diferentes formas de trabajos de titulación y examen complexivo en las carreras de grado de la universidad regional autónoma de los andes, UNIANDES},
+   url = {https://uniandes.edu.ec/wp-content/uploads/2020/12/06_2017-08-23_INSTRUCTIVO_FORMAS_TITULACION.pdf},
+   year = {2017}
+}
+@misc{,
+   journal = {Microsoft},
+   month = {6},
+   title = {Crear y probar un flujo de trabajo de aprobación con Power Automate - Power Automate | Aprendizaje de Microsoft},
+   url = {https://learn.microsoft.com/en-us/power-automate/modern-approvals?tabs=new-designer},
+   year = {2025}
+}
+@misc{ConsejodeEducacinSuperior2022,
+   author = {Consejo de Educación Superior},
+   journal = {Consejo de Educación Superior},
+   month = {9},
+   title = {Reglamento de Régimen Académico},
+   url = {https://www.ces.gob.ec/wp-content/uploads/2022/08/Reglamento-de-Re%CC%81gimen-Acade%CC%81mico-vigente-a-partir-del-16-de-septiembre-de-2022.pdf},
+   year = {2022}
+}
+@article{Kurniasari2025,
+   abstract = {Testing is an important aspect of software development. Automation testing is now widely used to achieve better and more efficient results. Various automation testing frameworks are available in the market. However, one of the major challenges is determining which automation testing framework is suitable for testing. This study proposes an evaluation model for evaluating web automation testing frameworks based on seven performance efficiency factors to address this issue. The model evaluates five types of transactions commonly used on the web; CRUD, Get Massive Data, search, file upload, and file download. In addition, the tested frameworks are categorized as good, medium, and low. To measure the success of the research, expert weighting was also used. Based on the results obtained for all types of transactions, almost all classifications between the experimental results and weighting were in the same class. Although the model was found to be effective with a 100% accuracy rate, it had an accuracy rate of 80% for upload transactions. The outcomes of this study serve as a valuable reference for choosing suitable software for both tested frameworks and other software applications. In future studies focus on narrowing the selection based on not only performance but also functionality and ease of use.},
+   author = {Dias Tri Kurniasari and Siti Rochimah},
+   doi = {10.11591/IJEECS.V37.I2.PP1130-1139},
+   issn = {25024760},
+   issue = {2},
+   journal = {Indonesian Journal of Electrical Engineering and Computer Science},
+   keywords = {Framework,ISO 25010,Model evaluation,Performance efficiency,Web testing},
+   month = {2},
+   pages = {1130-1139},
+   publisher = {Institute of Advanced Engineering and Science},
+   title = {An evaluation model of website testing framework based on ISO 25010 performance efficiency},
+   volume = {37},
+   year = {2025}
+}
+@misc{,
+   journal = {Conductor},
+   title = {Service Level Agreement (SLA) | Conductor},
+   url = {https://www.conductor.com/legal/service-level-agreement/}
+}
+@article{Polk2021,
+   abstract = {Standards and Technology (NIST), is a collaborative hub where industry organizations, government agencies, and academic institutions work together to address businesses' most pressing cybersecurity challenges. Through this collaboration, the NCCoE develops modular, adaptable example cybersecurity solutions demonstrating how to apply standards and best practices by using commercially available technology. To learn more about the NCCoE, visit https://nccoe.nist.gov. To learn more about NIST, visit https://www.nist.gov/. This document describes enterprise challenges associated with compliance, operations, and security when employing encrypted protocols, in particular Transport Layer Security (TLS) 1.3, in their data centers, and proposes an environment for demonstrating approaches and proposed solutions built in collaboration with a Community of Interest, cryptographic product vendors, product testing organizations, and product validation staff. ABSTRACT Enterprises use encryption-a cryptographic technique-to protect data transmission and storage. While encryption in transit protects data confidentiality and integrity, it also reduces the organization's visibility into the data flowing through their systems. The NCCoE initiated a project to address enterprise challenges to compliance, operations, and security when deploying modern encrypted protocols, and TLS 1.3 in particular. This effort is an element of the NCCoE's cryptographic applications program and follows successful completion of an earlier TLS certificate management project. This project description documents the project background, scenarios demonstrating efficacy of solutions, a high-level demonstration platform architecture that includes a list of desired components and security characteristics and properties, standards and guidance to be followed in project development and execution, and mappings to security requirements that the demonstration platform is to satisfy. ACKNOWLEDGMENT},
+   author = {Tim Polk and Murugiah Souppaya and William Barker},
+   keywords = {algorithm,application,compliance,cryptography,encryption,forensics,perfect forward security,protocol,transport layer,troubleshooting,visibility},
+   title = {ADDRESSING VISIBILITY CHALLENGES WITH TLS 1.3},
+   url = {https://nccoe.nist.gov.},
+   year = {2021}
+}
+@misc{,
+   title = {What is Code Coverage in Software Development? Code Metrics \& Analysis | Sonar},
+   url = {https://www.sonarsource.com/resources/library/code-coverage/}
+}
+@article{,
+   abstract = {Directora: ING. PRISCILA CEDILLO CUENCA-ECUADOR 2010 Resumen El presente trabajo de titulación ha sido realizado en el Departamento de Desarrollo Informático de la Universidad de Cuenca, y tuvo como objetivo el desarrollar un sistema para la automatización del manejo de las actividades para-académicas que los estudiantes deben realizar previo a la obtención de un título en la Universidad de Cuenca. El sistema fue desarrollado para un entorno web utilizando el lenguaje de programación Java y base de datos Oracle, este interactúa con los otros sistemas ya existentes, razón por la cual se ha adaptado incluso a los estándares que los rigen. Como resultado se ha obtenido un sistema flexible que soporta las particularidades que se presentan en cada una de las carreras y que permite el manejo automatizado de todo lo concerniente a las actividades para-académicas. Contenido},
+   author = {Trabajo De Graduación Previo and A La Obtención and Del Título De and Universidad De Cuenca and Elvia Esmeralda Álvarez and Minuche María and Alejandra Montes Fernández},
+   title = {UNIVERSIDAD DE CUENCA FACULTAD DE INGENIERIA ESCUELA DE INFORMATICA "SISTEMA DE GESTIÓN DE REQUISITOS PARA TITULACIONES EN LA}
+}
+@misc{,
+   title = {Vista de Sistema de gestión para la unidad de titulación de la Facultad de Ciencias de la Ingeniería y Aplicadas},
+   url = {https://investigacion.utc.edu.ec/index.php/ciya/article/view/306/256}
+}
+@article{,
+   title = {UNIVERSIDAD POLITÉCNICA SALESIANA SEDE QUITO}
+}
+@article{,
+   title = {UNIVERSIDAD CENTRAL DEL ECUADOR FACULTAD DE INGENIERÍA, CIENCIAS FÍSICAS Y MATEMÁTICA CARRERA DE INGENIERÍA INFORMÁTICA}
+}
+@article{,
+   title = {UNIVERSIDAD POLITÉCNICA SALESIANA SEDE QUITO}
+}
+@misc{,
+   title = {¿Qué es el diagrama de casos de uso?},
+   url = {https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/}
+}
+@misc{,
+   title = {¿Qué es el diagrama de clases?},
+   url = {https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/}
+}
+@misc{,
+   title = {Herramienta de diagrama de contexto del sistema},
+   url = {https://www.visual-paradigm.com/features/system-context-diagram-tool/}
+}
+@misc{,
+   title = {¿Qué es el diagrama de secuencia?},
+   url = {https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/}
+}
+@misc{,
+   title = {¿Qué es el diagrama de actividades?},
+   url = {https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-activity-diagram/}
+}
+@misc{,
+   title = {¿Qué es el diagrama de paquetes?},
+   url = {https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-package-diagram/}
+}
+@misc{,
+   title = {¿Qué es el diagrama de implementación?},
+   url = {https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-deployment-diagram/}
+}
+@article{,
+   abstract = {Ingénierie des systèmes et du logiciel-Processus du cycle de vie-Ingénierie des exigences INTERNATIONAL STANDARD ISO/IEC/ IEEE 29148 Reference number ISO/IEC/IEEE 29148:2018(E) Second edition 2018-11},
+   title = {Systems and software engineering-Life cycle processes-Requirements engineering},
+   year = {2018}
+}
+@misc{,
+   title = {ISO/IEC/IEEE 12207:2017 - Ingeniería de sistemas y software — Procesos del ciclo de vida del software},
+   url = {https://www.iso.org/standard/63712.html}
+}
+@article{Abdullah2012,
+   abstract = {This paper describes the development of a novel metaheuristic that combines an electromagnetic-like mechanism (EM) and the great deluge algorithm (GD) for the University course timetabling problem. This well-known timetabling problem assigns lectures to specific numbers of timeslots and rooms maximizing the overall quality of the timetable while taking various constraints into account. EM is a population-based stochastic global optimization algorithm that is based on the theory of physics, simulating attraction and repulsion of sample points in moving toward optimality. GD is a local search procedure that allows worse solutions to be accepted based on some given upper boundary or 'level'. In this paper, the dynamic force calculated from the attraction-repulsion mechanism is used as a decreasing rate to update the 'level' within the search process. The proposed method has been applied to a range of benchmark university course timetabling test problems from the literature. Moreover, the viability of the method has been tested by comparing its results with other reported results from the literature, demonstrating that the method is able to produce improved solutions to those currently published. We believe this is due to the combination of both approaches and the ability of the resultant algorithm to converge all solutions at every search process. © Springer Science+Business Media, LLC 2011.},
+   author = {Salwani Abdullah and Hamza Turabieh and Barry McCollum and Paul McMullan},
+   doi = {10.1007/S10732-010-9154-Y/METRICS},
+   issn = {13811231},
+   issue = {1},
+   journal = {Journal of Heuristics},
+   keywords = {Course timetabling,Dynamic force decay rate,Electromagnetism-like mechanism,Great deluge algorithm},
+   month = {2},
+   pages = {1-23},
+   publisher = {Springer},
+   title = {A hybrid metaheuristic approach to the university course timetabling problem},
+   volume = {18},
+   url = {https://link.springer.com/article/10.1007/s10732-010-9154-y},
+   year = {2012}
+}
+@article{Abdipoor2023,
+   abstract = {Course timetabling is an ongoing challenge that universities face all around the world. This combinatorial optimization task involves allocating a set of events into finite time slots and rooms while attempting to satisfy a set of predefined constraints. Given the high number of constraints and the large solution space to be explored, the University Course Timetabling Problem (UCTP) is classified as an NP-hard problem. Meta-heuristic approaches have been commonly applied to this problem in the literature and have achieved high performance on benchmark datasets. This survey paper provides a comprehensive and systematic review of these approaches in the UCTP. It reviews, summarizes, and categorizes the approaches, and introduces a classification for hybrid meta-heuristic methods. Furthermore, it critically analyzes the benefits and limitations of the methods. It also presents challenges, gaps, and possible future work.},
+   author = {Sina Abdipoor and Razali Yaakob and Say Leng Goh and Salwani Abdullah},
+   doi = {10.1016/J.ISWA.2023.200253},
+   issn = {2667-3053},
+   journal = {Intelligent Systems with Applications},
+   keywords = {Combinatorial optimization,Hybrid meta-heuristics,Meta-heuristics,Operational research,University Course Timetabling Problem},
+   month = {9},
+   pages = {200253},
+   publisher = {Elsevier},
+   title = {Meta-heuristic approaches for the University Course Timetabling Problem},
+   volume = {19},
+   url = {https://www.sciencedirect.com/science/article/pii/S2667305323000789?utm_source=chatgpt.com},
+   year = {2023}
+}
+@article{Cruz-Rosales2022,
+   abstract = {This work presents a metaheuristic with distributed processing that finds solutions for an optimization model of the university course timetabling problem, where collective communication and point-to-point communication are applied, which are used to generate cooperation between processes. The metaheuristic performs the optimization process with simulated annealing within each solution that each process works. The highlight of this work is presented in the algorithmic design for optimizing the problem by applying cooperative processes. In each iteration of the proposed heuristics, collective communication allows the master process to identify the process with the best solution and point-to-point communication allows the best solution to be sent to the master process so that it can be distributed to all the processes in progress in order to direct the search toward a space of solutions which is close to the best solution found at the time. This search is performed by applying simulated annealing. On the other hand, the mathematical representation of an optimization model present in the literature of the university course timing problem is performed. The results obtained in this work show that the proposed metaheuristics improves the results of other metaheuristics for all test instances. Statistical analysis shows that the proposed metaheuristic presents a different behavior from the other metaheuristics with which it is compared.},
+   author = {Martín H. Cruz-Rosales and Marco Antonio Cruz-Chávez and Federico Alonso-Pecina and Jesus Del C. Peralta-Abarca and Erika Yesenia Ávila-Melgar and Beatriz Martínez-Bahena and Juana Enríquez-Urbano},
+   doi = {10.3390/APP12020542},
+   issn = {2076-3417},
+   issue = {2},
+   journal = {Applied Sciences 2022, Vol. 12, Page 542},
+   keywords = {collective communication,hamming distance,landscape,point,point communication,restart,to},
+   month = {1},
+   pages = {542},
+   publisher = {Multidisciplinary Digital Publishing Institute},
+   title = {Metaheuristic with Cooperative Processes for the University Course Timetabling Problem},
+   volume = {12},
+   url = {https://www.mdpi.com/2076-3417/12/2/542/htm https://www.mdpi.com/2076-3417/12/2/542},
+   year = {2022}
+}
+@article{Teoh2015,
+   abstract = {The Academic Scheduling Problems have drawn great interest from many researchers of various fields, such as operational research and artificial intelligence. Despite the long history of literature, the problem still remains as an interesting research topic as new and emerging metaheuristic techniques continue to exhibit promising results. This paper surveys the properties of the Academic Scheduling Problems, such as the complexity of the problem and the constraints involved and addresses the various metaheuristic techniques and strategies used in solving them. The survey in this paper presents the aspects of solution quality in terms of computational speed, feasibility and optimality of a solution.},
+   author = {Chong Keat Teoh and Antoni Wibowo and Mohd Salihin Ngadiman},
+   doi = {10.1007/S10462-013-9399-6},
+   issn = {15737462},
+   issue = {1},
+   journal = {Artificial Intelligence Review},
+   keywords = {Academic scheduling problem,Course scheduling,Exam scheduling,Hyper-heuristics,Metaheuristic,Scheduling,Timetabling},
+   month = {6},
+   pages = {1-21},
+   publisher = {Kluwer Academic Publishers},
+   title = {Review of state of the art for metaheuristic techniques in Academic Scheduling Problems},
+   volume = {44},
+   url = {https://www.researchgate.net/publication/257512796_Review_of_State_of_the_Art_for_Metaheuristic_Techniques_in_Academic_Scheduling_Problems},
+   year = {2015}
+}
+@article{,
+   abstract = {Universities face a constant challenge when distributing students and allocating them to their required classes, especially for a large mass of students. Generating feasible timetables is a strenuous task that requires plenty of resources, which makes it impractical to take student preferences into consideration during the process. Timetabling and scheduling problems are proven to be NP-hard due to their complex nature and large search spaces. A genetic algorithm (GA) that assigns students to their classes based on their preferences is proposed as a solution to this problem and is implemented in this article. The GA's performance is enhanced by applying different metaheuristic concepts and by tailoring the genetic operators to the given problem. The quality of the solutions generated is boosted further with the unique repair and improvement functions that were implemented in conjunction with the genetic algorithm. The success of the GA was evaluated by using different datasets of varying complexity and by assessing the quality of the solutions generated. The results obtained were promising and the algorithm guarantees the feasibility of solutions as well as satisfying more than 90% of student preferences even for the most complex problems.},
+   author = {Ahmed Redha Mahlous and Houssam Mahlous},
+   doi = {10.7717/peerj-cs.1200},
+   keywords = {Artificial Intelligence,Artificial intelligence,Computer Education,Data Science,Evolutionary algorithms,Heuristics,Optimization Theory and Computation Keywords Genetic algorithms,Student timetabling,Subjects Algorithms and Analysis of Algorithms},
+   title = {Student timetabling genetic algorithm accounting for student preferences},
+   url = {http://doi.org/10.7717/peerj-cs.1200}
+}
+@article{Robayo2021,
+   abstract = {La asignación de los docentes que van a dictar una asignatura en un periodo académico es un problema común en las instituciones de educación superior. Este problema ya ha sido resuelto con diferentes técnicas, Yo presento una solución de una aplicación web con aplicación de un algoritmo genético en el backend. El IST Yavirac, al no contar con personal administrativo, realiza esta actividad con su planta docente, que deben combinar sus actividades de docencia con esta actividad administrativa. El problema de asignación de docentes por semestre, debido al número de variables y su complejidad es de tipo NP-completo, es decir no existe una única solución, sino más bien existe un conjunto de soluciones válidos. Para resolver este problema, se optó por el uso de Inteligencia Artificial, específicamente con el diseño e implementación de un algoritmo genético; esta solución se implementa sobre una web API REST en un servidor Web con NodeJS y puede ser implementado en la nube para producción. Este artículo, muestra el en-foque utilizado para dar una solución práctica, apoyado en el uso de ontologías para representar los objetos de negocio en cromosoma en lugar de la representación clásica que se basa en cadenas de caracteres. Este enfoque permite el cálculo de soluciones viables, que puedan ser aceptadas por los usuarios; su cálculo se reduce a unos pocos minutos en comparación con la solución manual que puede llegar a tomar hasta cinco días de trabajo.},
+   author = {Pablo Robayo},
+   doi = {10.46480/ESJ.5.3.159},
+   issue = {3},
+   journal = {Ecuadorian Science Journal},
+   month = {11},
+   pages = {262-271},
+   publisher = {GDEON},
+   title = {Implementación de un algoritmo genético en JavaScript para solucionar el problema de asignación de docentes para un periodo académico en el IST Yavirac},
+   volume = {5},
+   year = {2021}
+}
+@article{Almeida2023,
+   abstract = {This work presents a hybrid meta-heuristic for generating feasible course timetables , focusing on large-scale problems. We test it on instances from our university, for which the currently used commercial software takes several hours to find feasible solutions and often fails to comply with some constraints. The methodology includes elements from adaptive large neighbourhood search (ALNS), guided local search (GLS), variable neighbourhood search (VNS), and a novel instance decomposition technique. The constraint violations from different groups of constraints are regarded as objective functions to be minimised. The neighbourhood structures focus the search on the time slots where the most violations are identified. After a certain number of iterations without improvements, the most challenging constraint groups are given new weights, guiding the search towards non-dominated solutions, which improve the performance of these objectives, even if the total sum of the effective violations increases. If this mechanism fails to escape these "local optima", a shaking phase is conducted. The decomposition mechanism operates as follows: curricula are iteratively introduced to the problem, and new feasible solutions are found considering the increasing set of lectures. The assignments from each iteration can be modified if needed in subsequent iterations. This methodology is tested in real-world instances from our university and in random subdivisions of those. For subdivisions with 400 cur-ricula timetables, decomposition reduces the solution times to up to 27%. For real-world instances, with 1288 curricula timetables, the reduction is 18%. The experiments also reveal that clustering curricula with more lectures and professors in common when incrementing the instances improved the solution times by 18% more than a random increment order. Using our methodology, feasible solutions for the real-world instance are found in 21 minutes, on average, whereas the commercial software takes several hours.},
+   author = {João Almeida and José Rui Figueira and Alexandre P Francisco and Daniel Santos},
+   keywords = {Instance Decomposition,Meta-heuristics,Scheduling,Timetabling},
+   title = {A hybrid meta-heuristic for the generation of feasible large-scale course timetables using instance decomposition},
+   year = {2023}
+}
