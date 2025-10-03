@@ -209,3 +209,11 @@
    title = {A hybrid meta-heuristic for the generation of feasible large-scale course timetables using instance decomposition},
    year = {2023}
 }
+@misc{,
+   title = {ISO/IEC/IEEE 15289:2019 - Ingeniería de sistemas y software — Contenido de los elementos de información sobre el ciclo de vida (documentación)},
+   url = {https://www.iso.org/standard/74909.html}
+}
+@misc{,
+   title = {ISO/IEC 25010:2023 - Ingeniería de sistemas y software — Requisitos y evaluación de la calidad de los sistemas y software (SQuaRE) — Modelo de calidad del producto},
+   url = {https://www.iso.org/standard/78176.html}
+}
